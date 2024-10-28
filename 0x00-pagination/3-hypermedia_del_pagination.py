@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+"""
+3-hypermedia_del_pagination.py
+
+"""
 
 import csv
 import math
